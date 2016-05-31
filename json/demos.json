@@ -54,11 +54,5 @@
       "des_word": "经常在视频或者新闻网站看到这个,定制自己喜欢内容的板块",
       "title_name": "Drag和Drop"
     },
-    {
-      "href_url": "http://3.tamamoran.applinzi.com/loading.html",
-      "img_url": "http://7.tamamoran.applinzi.com/img/waterFall/loading.png",
-      "des_word": "不仅可以用CSS做一些小图形,例如圆形、三角等,利用CSS3的新特性还可以把Loading给做出来",
-      "title_name": "CSS3"
-    }
   ]
 }
